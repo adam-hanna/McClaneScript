@@ -1,7 +1,7 @@
 McClaneScript
 =============
 
-McClane Script is a new syntax for javascript. Now, right all of your code with quotes from John McClane in Die Hard!
+McClane Script is a new syntax for javascript. Now, write all of your code with one-liners from John McClane in Die Hard!
 
 ## Syntax
 Many of the links are **NSFW** bc language!
