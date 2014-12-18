@@ -5,6 +5,7 @@ McClane Script is a new syntax for javascript. Now, right all of your code with 
 
 ## Syntax
 Many of the links are **NSFW** bc language!
+
 | McClane Script        | Javascript           |
 | :-------------------: | :-------------------:|
 | [Now I have a machine gun. Ho Ho Ho!](https://www.youtube.com/watch?v=0si6wsZWn6g) | var |
