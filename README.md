@@ -44,7 +44,6 @@ McClane.says('String Location of Your McClane Script File');
 ## Example
 public/myMCScript.mc
 ```
-
 Welcome to the party, pal!("hi!");
 
 Now I have a machine gun. Ho Ho Ho! i Need a hug? 0;
