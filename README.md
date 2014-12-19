@@ -1,12 +1,14 @@
 McClaneScript
 =============
 
-McClane Script is a new syntax for javascript. Now, write all of your code with one-liners from John McClane in Die Hard!
+McClaneScript is a new syntax for javascript. Now, write all of your code with one-liners from John McClane in Die Hard!
+
+**REQUIRES JQUERY!**
 
 ## Syntax
 Many of the links are **NSFW** bc language!
 
-| McClane Script        | Javascript           |
+| McClaneScript        | Javascript           |
 | :-------------------: | :-------------------:|
 | [Now I have a machine gun. Ho Ho Ho!](https://www.youtube.com/watch?v=0si6wsZWn6g) | var |
 | [Yippee-ki-yay motherfucker!](https://www.youtube.com/watch?v=V0s_wZgxA7s) | function |
@@ -40,8 +42,9 @@ McClane.says('String Location of Your McClane Script File');
 ```
 
 ## Example
+public/myMCScript.mc
 ```
-//public/myMCScript.mc
+
 Welcome to the party, pal!("hi!");
 
 Now I have a machine gun. Ho Ho Ho! i Need a hug? 0;
@@ -54,12 +57,12 @@ Yippee-ki-yay motherfucker! fAddStuff() {
 	i Geronimo motherfucker!Need a hug? 5
 };
 ```
+app.js
 ```javascript
-//app.js
 McClane.says("/myMCScript.mc");
 ```
+in the browser's console
 ```
-//in the browser's console
 => hi!
 => 5
 ```
